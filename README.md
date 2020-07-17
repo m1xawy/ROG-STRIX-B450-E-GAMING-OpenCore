@@ -1,4 +1,4 @@
-<h2>Introduction in English</h2>
+<h2><span style="color: #ff0000;">Introduction in English</span></h2>
 <br>
 <h2>My machine information</h2>
 <p>Motherboard: ASUS ROG B450-E is "E"!</p>
