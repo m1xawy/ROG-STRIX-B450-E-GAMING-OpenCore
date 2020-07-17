@@ -1,4 +1,4 @@
-<h2><div><b>我的机器信息<b><div></h2>
+<h2><div><b>我的机器信息</b><div></h2>
 <p>主板：华硕ROG B450-E 是"E"!</p>
 <p>CPU:AMD R7 1700</p>
 <p>显卡：XFX RX480 4G黑狼版</p>
