@@ -26,9 +26,8 @@ https://kb.amd-osx.com/guides/adobe/
 
 http://bbs.pcbeta.com/viewthread-1858910-1-1.html
 
-
-
-
+<div>
+<div>
 
 更改 关于本机 里错误显示的处理器名称
 
