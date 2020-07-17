@@ -1,6 +1,5 @@
 <h2>Introduction in English</h2>
 <br>
-<br>
 <h2>My machine information</h2>
 <p>Motherboard: ASUS ROG B450-E is "E"!</p>
 <p>CPU:AMD R7 1700</p>
@@ -27,6 +26,7 @@
 <br>
 <br>
 <h2>中文介绍</h2>
+<br>
 <h2>我的机器信息</h2>
 <p>主板：华硕ROG B450-E 是"E"!</p>
 <p>CPU:AMD R7 1700</p>
