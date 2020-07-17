@@ -17,7 +17,7 @@
 <p>http://bbs.pcbeta.com/viewthread-1858910-1-1.html</p>
 <h2>Change the incorrectly displayed processor name in this machine</h2>
 <p>Need to use the tool BBEdit decentralized download link</p>
-<p>https://www.lanzous.com/ia8ejxe</p>
+<p>https://ricewang.lanzous.com/iar0hti</p>
 <p>Go to folder</p>
 <p>/System/Library/PrivateFrameworks/AppleSystemInfo.framework/Versions/A/Resources/zh_CN.lproj/Processors.strings</p>
 <p>Copy a copy of Processors.strings to the desktop and use BBEdit to open the desktop Processors.strings. Find the same place as your local display, modify it to the name you want to display and then replace the original Processors.strings Just drop it off</p>
@@ -44,7 +44,7 @@
 <p>http://bbs.pcbeta.com/viewthread-1858910-1-1.html</p>
 <h2>更改 关于本机 里错误显示的处理器名称</h2>
 <p>需要用到的工具 BBEdit  下放下载链接</p>
-<p>https://www.lanzous.com/ia8ejxe</p>
+<p>https://ricewang.lanzous.com/iar0hti</p>
 <p>前往文件夹</p>
 <p>/System/Library/PrivateFrameworks/AppleSystemInfo.framework/Versions/A/Resources/zh_CN.lproj/Processors.strings</p>
 <p>复制一份  Processors.strings  到桌面  然后用BBEdit打开桌面的Processors.strings 找到里面和你的关于本机显示的一样的地方 将其修改为你想要显示的名字 然后将原版Processors.strings替换掉即可</p>
