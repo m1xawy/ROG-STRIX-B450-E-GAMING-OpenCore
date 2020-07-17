@@ -19,3 +19,28 @@
 <p>前往文件夹</p>
 <p>/System/Library/PrivateFrameworks/AppleSystemInfo.framework/Versions/A/Resources/zh_CN.lproj/Processors.strings</p>
 <p>复制一份  Processors.strings  到桌面  然后用BBEdit打开桌面的Processors.strings 找到里面和你的关于本机显示的一样的地方 将其修改为你想要显示的名字 然后将原版Processors.strings替换掉即可</p>
+<br>
+<br>
+<br>
+<br>
+<h2>My machine information</h2>
+<p>Motherboard: ASUS ROG B450-E is "E"!</p>
+<p>CPU:AMD R7 1700</p>
+<p>Graphics card: XFX RX480 4G Black Wolf Edition</p><br>
+<p>I see that there is almost no EFI file sharing for my motherboard on major forums, and no one even uses this motherboard to play kink, so I deliberately shared my own to everyone</p>
+<p>The current system version is MacOS 10.15.5</p>
+<p>Video card hardware solution supports work such as video editing. Sound card and network card work normally (AMD common problem: microphone can not be used, my own solution is: external audio playback sound, USB headset pickup sound)</p>
+<p>Update OpenCore 0.5.9 version, can normally boot Black Apple and WIN10. </p>
+<p>Update all Kext. </p>
+<p>Almost all functions except navigation and microphone are currently in normal use. </p>
+<h2>Recommend a website to repair Adobe family bucket</h2>
+<p>The advantage is that you can use the latest version of Camera RAW. The disadvantage is that you may need to manually delete the file (the terminal executes the command sometimes there will be errors, it should be caused by the wrong path. Manual deletion)</p>
+<p>https://kb.amd-osx.com/guides/adobe/</p>
+<p>The following link will help you repair Photoshop to almost no problem (fix some functions of Photoshop's liquefaction on AMD platform)</p>
+<p>http://bbs.pcbeta.com/viewthread-1858910-1-1.html</p>
+<h2>Change the incorrectly displayed processor name in this machine</h2>
+<p>Need to use the tool BBEdit decentralized download link</p>
+<p>https://www.lanzous.com/ia8ejxe</p>
+<p>Go to folder</p>
+<p>/System/Library/PrivateFrameworks/AppleSystemInfo.framework/Versions/A/Resources/zh_CN.lproj/Processors.strings</p>
+<p>Copy a copy of Processors.strings to the desktop and use BBEdit to open the desktop Processors.strings. Find the same place as your local display, modify it to the name you want to display and then replace the original Processors.strings Just drop it off</p>
