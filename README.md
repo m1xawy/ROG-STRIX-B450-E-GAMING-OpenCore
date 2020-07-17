@@ -1,4 +1,4 @@
-<h2><div><b>我的机器信息</b><div></h2>
+<h2>我的机器信息</h2>
 <p>主板：华硕ROG B450-E 是"E"!</p>
 <p>CPU:AMD R7 1700</p>
 <p>显卡：XFX RX480 4G黑狼版</p><br>
@@ -14,8 +14,8 @@
 <p>下面的链接会帮助你将Photoshop修复至几乎没有问题（修复AMD平台的Photoshop的液化等一部分功能）</p>
 <p>http://bbs.pcbeta.com/viewthread-1858910-1-1.html</p>
 <h2>更改 关于本机 里错误显示的处理器名称</h2>
-<p>需要用到的工具 BBEdit  下放下载链接</b>
-<p>https://www.lanzous.com/ia8ejxe</b>
+<p>需要用到的工具 BBEdit  下放下载链接</p>
+<p>https://www.lanzous.com/ia8ejxe</p>
 <p>前往文件夹</p>
-<p>/System/Library/PrivateFrameworks/AppleSystemInfo.framework/Versions/A/Resources/zh_CN.lproj/Processors.strings</b>
-<p>复制一份  Processors.strings  到桌面  然后用BBEdit打开桌面的Processors.strings 找到里面和你的关于本机显示的一样的地方 将其修改为你想要显示的名字 然后将原版Processors.strings替换掉即可</b>
+<p>/System/Library/PrivateFrameworks/AppleSystemInfo.framework/Versions/A/Resources/zh_CN.lproj/Processors.strings</p>
+<p>复制一份  Processors.strings  到桌面  然后用BBEdit打开桌面的Processors.strings 找到里面和你的关于本机显示的一样的地方 将其修改为你想要显示的名字 然后将原版Processors.strings替换掉即可</p>
