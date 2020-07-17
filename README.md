@@ -1,4 +1,4 @@
-
+<b>我的机器信息<b>
 主板：华硕ROG B450-E         是  "E"  !!!
 
 CPU:AMD R7 1700
@@ -16,7 +16,7 @@ CPU:AMD R7 1700
 目前除随航以外的功能几乎都是正常使用的。
 
 
-推荐一个修复Adobe全家桶的网站
+<b>推荐一个修复Adobe全家桶的网站<b>
 
 优点是可以用最新版本的Camera RAW 缺点是可能需要手动去删除文件（终端执行命令有时会出错 应该是路径不对导致的 手动删除即可）
 
@@ -26,12 +26,11 @@ https://kb.amd-osx.com/guides/adobe/
 
 http://bbs.pcbeta.com/viewthread-1858910-1-1.html
 
-<div>
-<div>
 
-更改 关于本机 里错误显示的处理器名称
 
-需要用到的工具 BBEdit  下放链接
+<b>更改 关于本机 里错误显示的处理器名称<b>
+
+需要用到的工具 BBEdit  下放下载链接
 
 https://www.lanzous.com/ia8ejxe
 
