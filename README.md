@@ -20,7 +20,7 @@
 <p>https://ricewang.lanzous.com/iar0hti</p>
 <p>Go to folder</p>
 <p>/System/Library/PrivateFrameworks/AppleSystemInfo.framework/Versions/A/Resources/zh_CN.lproj/Processors.strings</p>
-<p>Copy a copy of Processors.strings to the desktop and use BBEdit to open the desktop Processors.strings. Find the same place as your local display, modify it to the name you want to display and then replace the original Processors.strings Just drop it off</p>
+<p>Copy a copy of Processors.strings to the desktop, then use BBEdit to open the Desktop Processors.strings, find the same place as your display about the machine, modify it to the name you want to display, and replace the original Processors.strings Just drop it (if you can't replace the original Processors.strings, you need to open the system file write permission: sudo mount -uw / && killall Finder (throw it into the terminal-enter-enter the local password))</p>
 <br>
 <br>
 <br>
@@ -47,5 +47,5 @@
 <p>https://ricewang.lanzous.com/iar0hti</p>
 <p>前往文件夹</p>
 <p>/System/Library/PrivateFrameworks/AppleSystemInfo.framework/Versions/A/Resources/zh_CN.lproj/Processors.strings</p>
-<p>复制一份  Processors.strings  到桌面  然后用BBEdit打开桌面的Processors.strings 找到里面和你的关于本机显示的一样的地方 将其修改为你想要显示的名字 然后将原版Processors.strings替换掉即可</p>
+<p>复制一份  Processors.strings  到桌面  然后用BBEdit打开桌面的Processors.strings 找到里面和你的关于本机显示的一样的地方 将其修改为你想要显示的名字 然后将原版Processors.strings替换掉即可（若无法替换原版Processors.strings，则需要开启系统文件写入权限：sudo mount -uw / && killall Finder（丢入终端中-回车-输入本机密码即可））</p>
 
